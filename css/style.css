@@ -22,7 +22,7 @@
     to make the filter to your own */
 
   /* --imgbg: url(/img/wal.jpg); */
-  --imgcol: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)); /* Filter color */
+  --imgcol: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.0)); /* Filter color */
 }
 
 @media only screen and (max-width: 68.75em) {
