@@ -22,7 +22,7 @@
     to make the filter to your own */
 
   --imgbg: url(/img/wal.jpg); */
-  --imgcol: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.0)); /* Filter color */
+  --imgcol: linear-gradient(rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 0.0)); /* Filter color */
 }
 
 @media only screen and (max-width: 68.75em) {
@@ -39,7 +39,7 @@
   --bg: #1e1f21;       /* Background color */
   --sbg: #2c2d31;      /* Cards color */
   --fg: #d8dee9;       /* Foreground color */
-  --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));    /* Filter color */
+  --imgcol: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0));    /* Filter color */
 }
 
 * {
